@@ -157,7 +157,7 @@ export default function Header({value, setValue, selectedIndex, setSelectedIndex
     ]
     
     const routes = [
-        {name: "Inicio", link: "/", activeIndex: 0},
+        {name: "Inicios", link: "/", activeIndex: 0},
         {name: "Motocicletas", link: "/motocicletas", activeIndex: 1},
         {name: "Motocargas", link: "/motocargas", activeIndex: 2},
         {name: "Cascos", link: "/cascos", activeIndex: 3},
